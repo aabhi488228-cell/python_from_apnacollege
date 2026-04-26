@@ -45,6 +45,6 @@
 # print(list)
 
 ##5th method(remove method)
-# list=[2,1,3]
-# list.remove(2)
-# print(list)
+list=[2,1,3]
+list.remove(2)
+print(list)
