@@ -8,5 +8,5 @@ list.append("e")
 list.sort()
 list.pop(0)
 list.reverse()
-print(list)
+print(list)    
 
