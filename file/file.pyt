@@ -54,5 +54,5 @@ with open("practice.txt", "r") as f:
     if(data.find(word)!= -1):
         print("found")
     else:
-        print("not found")
+        print("not found")    
 
