@@ -9,4 +9,4 @@ class Student:
 
 s1 = Student("karan",97.7)
 print(s1.name)
-print(s1.marks)     
+print(s1.marks)         
