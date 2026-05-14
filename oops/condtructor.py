@@ -18,4 +18,4 @@ print(s2.marks)
 class Student:
 
     def __init__(self): ##constructor 
-        pass
+        pass     

@@ -13,4 +13,4 @@ s1 = student("tonny stark",[99,98,97])
 s1.get_avg()
 
 s1.name = "ironman"
-s1.get_avg()     
+s1.get_avg()         
